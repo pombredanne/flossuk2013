@@ -1760,10 +1760,14 @@
          sodipodi:role="line"
          x="320"
          y="436"
-         id="tspan3347">    Shell</tspan><tspan
+         id="tspan3347">♥ tab-completion</tspan><tspan
          sodipodi:role="line"
          x="320"
          y="496"
+         id="tspan3342">    Shell</tspan><tspan
+         sodipodi:role="line"
+         x="320"
+         y="556"
          id="tspan3349">❌  apt-get</tspan></text>
   </g>
 </svg>
