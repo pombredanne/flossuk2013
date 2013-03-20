@@ -1739,57 +1739,68 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="470.6582"
-       y="224"
+       x="469.08008"
+       y="211.41095"
        id="text3341"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3343"
-         x="470.6582"
-         y="224">DNS</tspan></text>
+         x="469.08008"
+         y="211.41095">DNS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="429.78906"
-       y="283.88672"
-       id="text3345"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3347"
-         x="429.78906"
-         y="283.88672">Backups</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="440.35547"
-       y="351.17578"
+       x="438.77734"
+       y="285.29221"
        id="text3349"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3351"
-         x="440.35547"
-         y="351.17578">Service</tspan></text>
+         x="438.77734"
+         y="285.29221">Service</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="336"
-       y="478"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="512"
+       y="432"
        id="text3353"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3355"
-         x="336"
-         y="478">World Domination</tspan></text>
+         x="512"
+         y="432">Data Centres</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="450.25781"
-       y="414.58789"
+       x="448.67969"
+       y="358.8219"
        id="text3357"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3359"
-         x="450.25781"
-         y="414.58789">Mixins</tspan></text>
+         x="448.67969"
+         y="358.8219">Mixins</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3346"
+       y="505.88129"
+       x="356.51172"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="505.88129"
+         x="356.51172"
+         id="tspan3348"
+         sodipodi:role="line">Cloud Providers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="334.42188"
+       y="579.41095"
+       id="text3350"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3352"
+         x="334.42188"
+         y="579.41095">World Domination</tspan></text>
   </g>
 </svg>
